@@ -1,23 +1,24 @@
-remote_theme: https://github.com/JV-conseil/jekyll-theme-chirpy
-# google:
-#   site_verification: ChPjQbKFflPAwOF9uuYRLEodZBgPjW5CISg0gSsViN0
+remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 
-# mouseflow:
-#   project_api_key: 11a6acbb-5bc8-41ac-b415-731ab78f77e0
+google:
+  site_verification: ChPjQbKFflPAwOF9uuYRLEodZBgPjW5CISg0gSsViN0
 
-# posthog:
-#   project_api_key: phc_f6FrCZbt951cotQoYFi5VAS7KYpyCnpgRcbknlMwBDs
+mouseflow:
+  project_api_key: 11a6acbb-5bc8-41ac-b415-731ab78f77e0
 
-# telemetry:
-#   app_id: CB7D497B-DC8A-4C75-B5FD-00AAA1F60E41
+posthog:
+  project_api_key: phc_f6FrCZbt951cotQoYFi5VAS7KYpyCnpgRcbknlMwBDs
 
-# umami:
-#   website_id: 7670b311-8c77-45fb-a36d-6fecf59bbdac
+telemetry:
+  app_id: CB7D497B-DC8A-4C75-B5FD-00AAA1F60E41
 
-# plugins:
-#   - jemoji
-#   - jekyll-avatar
-#   - jekyll-mentions
+umami:
+  website_id: 7670b311-8c77-45fb-a36d-6fecf59bbdac
 
-# readme_index:
-#   with_frontmatter: true
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+readme_index:
+  with_frontmatter: true
