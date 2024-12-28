@@ -1,8 +1,8 @@
 ---
 title: "iOS 17.4: Now Playing not working on Apple Watch ⌚"
 date: "2024-04-30T18:13:39+01:00"
-categories: ["iwatch", "watchOS"]
-tags: ["iwatch", "watchOS"]     # TAG names should always be lowercase
+categories: []
+tags: []     # TAG names should always be lowercase
 ---
 
 <!-- markdownlint-disable MD001 MD033 MD053 -->
