@@ -1,12 +1,11 @@
 ---
 title: "iOS 17.4: Now Playing not working on Apple Watch ⌚"
 date: "2024-04-30T18:13:39+01:00"
-categories: []
-tags: []     # TAG names should always be lowercase
+categories: ["iwatch", "watchOS"]
+tags: ["iwatch", "watchOS"]     # TAG names should always be lowercase
 ---
 
 <!-- markdownlint-disable MD001 MD033 MD053 -->
-# iOS 17.4: Now Playing not working on Apple Watch ⌚
 
 [![Become a sponsor to JV-conseil](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/JV-conseil "Become a sponsor to JV-conseil")
 [![Follow JV conseil on StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/2477854)](https://stackoverflow.com/users/2477854/jv-conseil "Follow JV conseil on StackOverflow")

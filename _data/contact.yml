@@ -25,7 +25,7 @@
 #
 - type: stack-overflow
   icon: 'fab fa-stack-overflow'
-  url:  'http://stackoverflow.com/users/2477854'                  # Fill with your stackoverflow homepage
+  url:  'https://stackoverflow.com/users/2477854'                  # Fill with your stackoverflow homepage
 #
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
